@@ -1,18 +1,6 @@
 Introduction to Learning & Memory
 ======================================================
 
-# .. image:: images/pic1.png
-#    :width: 30%
-#    :alt: alternate text
-#    :target: http://spark.rstudio.com/supsych/simple_regression/
-# .. image:: images/pic2.png
-#    :width: 30%
-#    :alt: alternate text
-#    :target: http://spark.rstudio.com/supsych/sampling_and_stderr/
-# .. image:: images/pic3.png
-#    :width: 30%
-#    :alt: alternate text
-#    :target: http://spark.rstudio.com/supsych/logistic_regression/
 
 Instructor:	  	  
 ~~~~~~~~~~~~

@@ -102,9 +102,9 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 # documentation.
 html_theme_options = {
     'source_link_position': "footer",
-    'bootswatch_theme': "paper",
+    'bootswatch_theme': "cerulean",
     'navbar_sidebarrel': False,
-    'navbar_class': "navbar navbar-inverse",
+    #'navbar_class': "navbar navbar-inverse",
     'bootstrap_version': "3",
 
     }
