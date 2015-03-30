@@ -20,4 +20,3 @@ Contents
 
    demos/index.rst
    resources/index.rst
-   slides/index.rst
