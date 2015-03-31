@@ -29,9 +29,7 @@ summarizes and critiques the accuracy of how memory is depicted in the movie Mem
 the written assignment can be found below.
 
 
-*NOTE: Attending lectures is important because much of the material will be presented only in lectures. That is,
-lectures will not simply present the material from the text and readings in lecture format, but rather will focus on
-discussing complementary material.*
+.. note:: Attending lectures is important because much of the material will be presented only in lectures. That is, lectures will not simply present the material from the text and readings in lecture format, but rather will focus on discussing complementary material.
 
 ----------------
 
@@ -85,9 +83,7 @@ The instructor and TAs will organize two opportunities to screen *Memento* (see 
 attend either screening, then you should make arrangements to independently view the film. Stanford library has
 three copies of the DVD that can be checked out, and the movie is also available on iTunes and GooglePlay.
 
-*Late policy: Points will be taken off for late papers unless there is a medical emergency, in fairness to those who
-submit in a timely manner. Serious health or other issues that interfere with exam and assignment dates can be
-discussed with the Alternate Exams TA (Ellie Chestnut).*
+.. note:: Late policy: Points will be taken off for late papers unless there is a medical emergency, in fairness to those who submit in a timely manner. Serious health or other issues that interfere with exam and assignment dates can be discussed with the Alternate Exams TA (Ellie Chestnut).
 
 ----------------
 
