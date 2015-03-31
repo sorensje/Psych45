@@ -27,5 +27,6 @@ Contents
 .. toctree::
    :maxdepth: 1
 
+   syllabus/index.rst
    demos/index.rst
    resources/index.rst
