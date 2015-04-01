@@ -1,5 +1,11 @@
-Syllabus
+Syllabus : Introduction to Learning and Memory (PSYCH 45)
 ================
+
+**Lectures:** T/TH 9:30 - 10:45am
+
+**Location:** Building 420 (Jordan Hall); Room 041
+
+
 
 People
 --------------------------------------------
