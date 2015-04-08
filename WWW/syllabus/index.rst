@@ -121,27 +121,27 @@ Apr 8 (W)   3-4pm    AW, KL, & EC   Meet at the front entrance of Jordan Hall (f
  
                                     If the weather is good, we'll head to the picnic tables outside of Jordan Hall.
  
-                                    If not, Econ 106.
+                                    If not, Jordan Hall 286.
                                     
-Apr 20 (M)  4-5pm    TBD            Meet at the front entrance of Jordan Hall (facing the oval). 
+Apr 20 (M)  4-5pm    AW, KL, & JS   Meet at the front entrance of Jordan Hall (facing the oval). 
 
                                     If the weather is good, we'll head to the picnic tables outside of Jordan Hall. 
 
                                     If not, Jordan Hall 417.  
 
-May 5 (Tu)  3-4pm    TBD            Meet at the front entrance of Jordan Hall (facing the oval). 
+May 5 (Tu)  3-4pm    AW, KL, & EC   Meet at the front entrance of Jordan Hall (facing the oval). 
 
                                     If the weather is good, we'll head to the picnic tables outside of Jordan Hall. 
 
                                     If not, 90-92Q. 
 
-May 15 (F)  9-10am   TBD            Meet at the front entrance of Jordan Hall (facing the oval). 
+May 15 (F)  9-10am   AW, KL, & SG   Meet at the front entrance of Jordan Hall (facing the oval). 
 
                                     If the weather is good, we'll head to the picnic tables outside of Jordan Hall. 
 
                                     If not, Jordan Hall 417.  
 
-May 29 (F)  9-10am   TBD            Meet at the front entrance of Jordan Hall (facing the oval). 
+May 29 (F)  9-10am   AW, KL, & SG   Meet at the front entrance of Jordan Hall (facing the oval). 
 
                                     If the weather is good, we'll head to the picnic tables outside of Jordan Hall. 
 
