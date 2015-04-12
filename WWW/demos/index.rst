@@ -73,3 +73,8 @@ If you have already run the task on Amazon Mechanical Turk but would like to see
 
 Cognitive Control
 --------------------------------------------
+
+Stroop Task
+~~~~~~~~~~~~
+
+A very quick demo of the Stroop task can be found `here <http://www.math.unt.edu/~tam/selftests/stroopeffects.html>`_.
