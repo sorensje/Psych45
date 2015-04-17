@@ -103,27 +103,51 @@ Wagner, LaRocque, and one additional TA will host 5 Learning and Memory
 Cafes (LMCs). The LMCs will provide up to 15 students per meeting the opportunity to discuss topics of
 interest in learning and memory. At each LMC, attendees are invited to bring their questions,
 observations, and general thoughts about learning and memory to the group. We will be there with coffee,
-tea, and snacks, along with a willingness to engage with your topics of interest. The dates for the LMCs
-are below; we will announce how to sign up via Piazza.
+tea, and snacks, along with a willingness to engage with your topics of interest. 
+
+The dates for the LMCs are below.
+You can sign up `here <https://docs.google.com/spreadsheets/d/1S1x6355acpR6Zc8gkTqQTeLDOutp7xxxEXEBjerzjBk/edit?usp=sharing>`_. 
+Please join us!
 
 
-**Learning & Memory Café Schedule**
+Learning & Memory Café Schedule
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. cssclass:: table-striped
-==========  =======  ==========
-Date        Time     Location
-==========  =======  ==========
-Apr 8 (W)   3-4pm    TBD
+==========  ======= =============== ===============================================================================
+Date        Time    Who             Location
+==========  ======= =============== ===============================================================================
+Apr 8 (W)   3-4pm    AW, KL, & EC   Meet at the front entrance of Jordan Hall (facing the oval).
+ 
+                                    If the weather is good, we'll head to the picnic tables outside of Jordan Hall.
+ 
+                                    If not, Jordan Hall 286.
+                                    
+Apr 20 (M)  4-5pm    AW, KL, & JS   Meet at the front entrance of Jordan Hall (facing the oval). 
 
-Apr 20 (M)  4-5pm    TBD
+                                    If the weather is good, we'll head to the picnic tables outside of Jordan Hall. 
 
-May 5 (Tu)  3-4pm    TBD
+                                    If not, Jordan Hall 417.  
 
-May 15 (F)  9-10am   TBD
+May 5 (Tu)  3-4pm    AW, KL, & EC   Meet at the front entrance of Jordan Hall (facing the oval). 
 
-May 29 (F)  9-10am   TBD
+                                    If the weather is good, we'll head to the picnic tables outside of Jordan Hall. 
 
-==========  =======  ==========
+                                    If not, 90-92Q. 
+
+May 15 (F)  9-10am   AW, KL, & SG   Meet at the front entrance of Jordan Hall (facing the oval). 
+
+                                    If the weather is good, we'll head to the picnic tables outside of Jordan Hall. 
+
+                                    If not, Jordan Hall 417.  
+
+May 29 (F)  9-10am   AW, KL, & SG   Meet at the front entrance of Jordan Hall (facing the oval). 
+
+                                    If the weather is good, we'll head to the picnic tables outside of Jordan Hall. 
+
+                                    If not, Jordan Hall 417.  
+==========  ======= =============== ===============================================================================
+
 
 Memory at the Movies
 ++++++++++++++++++++++++++++++++++++++++++++
@@ -147,9 +171,9 @@ Schedule
 --------------------------------------------
 
 .. cssclass:: table-hover
-========  =========================================  ==================================  =================================
+========  =========================================  ==================================  ====================================
 Date      Topic                                      Reading                             Other
-========  =========================================  ==================================  =================================
+========  =========================================  ==================================  ====================================
 Mar 31    Introduction to memory                     Ch. 1                               \
 
 Apr 2     Experimental methods                       Ch. 2
@@ -162,7 +186,7 @@ Apr 9     Working memory II                          \
 
 Apr 14    Cognitive control and memory I             \                                   Optional: Memory at the Movies I
 
-										         - *Roshomon* @ 7PM
+										         - *Roshomon* @ 7PM, Hewlett 201
 
 
 Apr 16    Cognitive control and memory II            \
@@ -179,7 +203,7 @@ Apr 28    Episodic memory: Encoding II                Squire (2009)
 
 Apr 30    Episodic memory: Retrieval I                                                   Optional: Memory at the Movies II
 
-  	  - How do we remember?                                                          - *Eternal Sunshine* @ 7PM
+  	  - How do we remember?                                                          - *Eternal Sunshine* @ 7PM, Hewlett 201
 	  - *Lecturer: Stephanie Gagnon*
 
 May 5     Episodic memory: Retrieval II
@@ -195,11 +219,11 @@ May 12    Midterm II
 
 May 14    Multiple memory systems                    Ch. 8                               Memory at the Movies III
 
-          - Declarative vs. nondeclarative memory                                        - *Memento* @ 7 PM
+          - Declarative vs. nondeclarative memory                                        - *Memento* @ 7 PM, 200-203
 
 May 19    Nonconscious forms of memory               Ch. 4 and 5                         Memory at the Movies III
 
-          - Conditioning                                                                 - *Memento* @ 7 PM
+          - Conditioning                                                                 - *Memento* @ 7 PM, Hewlett 201
 
 May 21    Emotion and memory                         Ch. 10
 
@@ -211,8 +235,7 @@ May 28    False memories                             Schacter (1999)            
 
 Jun 2     Aging and memory                           Ch. 12
 
-Jun 4     Review session
+Jun 4     Review session                                                                 Location 420-041 (usual classroom)
 
 Jun 5     Final Exam, 12:15-3:15                                                         Location TBD
-
-========  =========================================  ==================================  =================================
+========  =========================================  ==================================  ====================================
